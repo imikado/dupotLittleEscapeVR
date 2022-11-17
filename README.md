@@ -1,2 +1,2 @@
-# dupotLittleEscapeVR
+# articleLMGodotLittleEscapeVR
 Escape game VR
